@@ -26,7 +26,7 @@ struct FavoriteElements : Identifiable {
 
 let goldenGate = FavoriteElements(name: "Golden Gate", imagename: "Golden Gate Bridge", description: "Great View")
 let petronas = FavoriteElements(name: "Petronas Towers", imagename: "Petronas", description: "Beautiful at night")
-let hawaMahal = FavoriteElements(name: "Hawa Mahal", imagename: "HawaMahal", description: "Pink!")
+let hawaMahal = FavoriteElements(name: "Hawa Mahal", imagename: "HawaMahal", description: "Saffron!")
 let empireState = FavoriteElements(name: "Empire State Building", imagename: "Empire State", description: "Monumental")
 let sydneyHarbor = FavoriteElements(name: "Sydney Harbor", imagename: "Sydney Harbor", description: "Pleasant")
 

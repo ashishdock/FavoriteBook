@@ -12,6 +12,7 @@
 		DBAD1F392959AD9A008C5B84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBAD1F382959AD9A008C5B84 /* Assets.xcassets */; };
 		DBAD1F3C2959AD9A008C5B84 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBAD1F3B2959AD9A008C5B84 /* Preview Assets.xcassets */; };
 		DBAD1F442959AE21008C5B84 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAD1F432959AE21008C5B84 /* FavoriteModel.swift */; };
+		DBAD1F462959B47D008C5B84 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAD1F452959B47D008C5B84 /* DetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DBAD1F3B2959AD9A008C5B84 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DBAD1F3D2959AD9A008C5B84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBAD1F432959AE21008C5B84 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
+		DBAD1F452959B47D008C5B84 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				DBAD1F342959AD98008C5B84 /* FavoriteBookApp.swift */,
 				DBAD1F362959AD98008C5B84 /* ContentView.swift */,
+				DBAD1F452959B47D008C5B84 /* DetailsView.swift */,
 				DBAD1F432959AE21008C5B84 /* FavoriteModel.swift */,
 				DBAD1F382959AD9A008C5B84 /* Assets.xcassets */,
 				DBAD1F3D2959AD9A008C5B84 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBAD1F442959AE21008C5B84 /* FavoriteModel.swift in Sources */,
+				DBAD1F462959B47D008C5B84 /* DetailsView.swift in Sources */,
 				DBAD1F372959AD98008C5B84 /* ContentView.swift in Sources */,
 				DBAD1F352959AD98008C5B84 /* FavoriteBookApp.swift in Sources */,
 			);
